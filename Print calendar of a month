@@ -1,0 +1,4 @@
+ import calendar 
+yy = 2014  # year 
+mm = int(input("enter a month vlue:"))   # month 
+print(calendar.month(yy, mm))
