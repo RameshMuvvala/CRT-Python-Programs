@@ -1,0 +1,2 @@
+Ch = input(‘enter a character: ’) 
+print("the asci value of character is",(ord(Ch))) 
