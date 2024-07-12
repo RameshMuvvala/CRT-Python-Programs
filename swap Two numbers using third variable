@@ -1,0 +1,7 @@
+a = int(input('Enter first side: ')) 
+b = int(input('Enter second side: ')) 
+temp = a 
+a=b 
+b=temp 
+print("swapped a is",a) 
+print("swapped abis",b) 
