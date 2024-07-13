@@ -1,0 +1,3 @@
+List1 = [1,2,8,4,78,56] 
+for i in List1: 
+print(i)
